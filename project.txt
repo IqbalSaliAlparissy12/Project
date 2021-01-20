@@ -2,3 +2,5 @@ Project Prsensi
 - iqbal
 -sali
 -alparissy
+-iqbal
+-sali
